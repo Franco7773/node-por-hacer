@@ -1,0 +1,16 @@
+{
+  "name": "base-01",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gianfranco D'Onofrio",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {}
+}
